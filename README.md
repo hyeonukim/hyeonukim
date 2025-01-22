@@ -18,8 +18,6 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeonukim&show_icons=true&locale=en&layout=compact" alt="hyeonukim" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeonukim&" alt="hyeonukim" /></p>
-
 ## Projects
 
 ### Captcha Hacking (Computer Vision)
