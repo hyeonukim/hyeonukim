@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://hyeonukim.github.io/devblog/about/](https://hyeonukim.github.io/devblog/about/)
 
-- 📝 I regularly write articles here [https://hyeonukim.github.io/devblog/categories/](https://hyeonukim.github.io/devblog/categories/)
-
 - 📫 How to reach me **hyeonuerickim1999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lztAVjDhhToMA-Ztz7zZ08uKGTCf3bF3/view?usp=sharing](https://drive.google.com/file/d/1lztAVjDhhToMA-Ztz7zZ08uKGTCf3bF3/view?usp=sharing)
